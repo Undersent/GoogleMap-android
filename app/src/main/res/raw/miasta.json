@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Wroclaw",
+    "latlng": [
+      51.110,
+      17.030
+    ],
+    "population": "1200000"
+  },
+  {
+    "name": "Jelenia Gora",
+    "latlng": [
+      50.8997300,
+      15.7289900
+    ],
+    "population": "80000"
+  },
+  {
+    "name": "James Bond",
+    "latlng": [
+      62.458287,
+      17.356306
+    ],
+    "population": "123"
+  }
+]
